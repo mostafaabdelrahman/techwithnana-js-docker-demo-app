@@ -1,5 +1,8 @@
 ## demo app - developing with Docker
 
+Original URL of Nana:
+https://gitlab.com/nanuchi/techworld-js-docker-demo-app
+
 This demo app shows a simple user profile app set up using 
 - index.html with pure js and css styles
 - nodejs backend with express module
